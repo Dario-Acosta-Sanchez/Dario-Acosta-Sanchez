@@ -1,6 +1,6 @@
 # Hola, soy Darío 👋
 
-Estudiante de **Ingeniería Informática** en la Universidad de Córdoba y fundador de **[PuntoZero](https://puntozerosl.es)**, donde llevo la ingeniería de software a negocios locales: webs, cartas digitales y herramientas a medida, fáciles de usar y sin complicaciones para el cliente.
+Estudiante de **Ingeniería Informática** en la Universidad de Córdoba y cofundador de **[PuntoZero](https://puntozerosl.es)**, el estudio donde llevamos la ingeniería de software a negocios locales: webs, cartas digitales y herramientas a medida, fáciles de usar y sin complicaciones para el cliente.
 
 🌐 **[puntozerosl.es](https://puntozerosl.es)**
 
