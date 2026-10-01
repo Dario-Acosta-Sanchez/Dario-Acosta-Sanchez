@@ -30,12 +30,18 @@ Más de 30 demos funcionales por sector (hostelería, salud, comercio, deporte, 
 | **[Estructuras de Datos](https://github.com/Dario-Acosta-Sanchez/estructuras-datos)** | Apuntes interactivos · [ver online](https://dario-acosta-sanchez.github.io/estructuras-datos/) |
 | **[SO Atlas](https://github.com/Dario-Acosta-Sanchez/so-atlas)** | Atlas de Sistemas Operativos: teoría, prácticas, exámenes y test · [ver online](https://dario-acosta-sanchez.github.io/so-atlas/) |
 | **[PAS](https://github.com/Dario-Acosta-Sanchez/PAS)** | Terminal de aprendizaje interactivo · [ver online](https://dario-acosta-sanchez.github.io/PAS/) |
+| **[POO en C++](https://github.com/Dario-Acosta-Sanchez/poo-cpp-ciclismo)** | Herencia, catálogos CSV y simulación de etapas · C++20, CMake, 25 tests con GoogleTest |
+| **[Sistemas Operativos en C](https://github.com/Dario-Acosta-Sanchez/so-procesos-hilos-c)** | Procesos, señales, hilos POSIX y exclusión mutua |
+| **[Bases de Datos](https://github.com/Dario-Acosta-Sanchez/bbdd-oracle-sql)** | Consultas SQL y PL/SQL con cursores en Oracle |
 
 ## 🛠️ Tecnologías
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white)
